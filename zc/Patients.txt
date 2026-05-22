@@ -1,0 +1,6 @@
+1) Patient Name : asd
+ID : 123
+Section : ICU
+Fee : 561.0
+Discharge Date : 20/5/2020
+------------------
