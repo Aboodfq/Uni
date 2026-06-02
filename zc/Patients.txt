@@ -1,3 +1,0 @@
-0)  Patient Name : asd, Patient ID : 123, Patient PhoneNumber : 666, Patient Gender : Male, Section : ICU
-0) Patient Name : lina, Patient ID : 123, Patient PhoneNumber : 666, Patient Gender : Female, Section : Rehab
-0) Patient Name : asd, Patient ID : 23, Patient PhoneNumber : 123, Patient Gender : Male, Section : ICU
